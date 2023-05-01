@@ -1,0 +1,16 @@
+.body{
+    background: url('../../../../img/noun-iphone-11-3459719.png') no-repeat fixed;
+    background-position: center;
+    
+    height: 43em;
+    margin: auto;
+}.frame{
+    border-radius: 2%;
+    height: 45em;
+    width: 17.2em;
+    height: 30em;
+    border: 1px black solid;
+    margin-left: 39.3%;
+    margin-top: 7.7%;
+position: fixed;
+}

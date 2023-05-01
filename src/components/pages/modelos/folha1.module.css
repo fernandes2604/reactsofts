@@ -1,0 +1,14 @@
+.alinha{
+    width: 92%;
+    margin: auto;
+}.sale{
+    text-decoration: line-through;
+    font-size: 60%;
+}.fluid:hover{
+    -webkit-transform: scale(0.9);
+    transform: scale(1.05);
+  }.fluid{
+transition: 1s;
+  }.reactslick{
+width: 100px;
+  }

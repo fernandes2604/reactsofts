@@ -1,0 +1,10 @@
+.articletwo{
+    background: url('https://img.freepik.com/fotos-premium/fundo-branco-abstrato-com-linhas-suaves_476363-308.jpg') right no-repeat;
+    background-size:100pc;
+}.articletwo img{
+    border-radius: 25px;
+}
+.articletree{
+    height: 400px;
+    background: url('./img/fones/iphone14-digitalmat-gallery-1-202209.png') right no-repeat;
+}
